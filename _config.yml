@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Pedro Contreras Corral"
   avatar           : "profile.png"
-  bio              : "MSc. (c) in Physics. Currently working on Theoretical Nuclear Structure. «'Nuc-u-lar'. It's pronounced 'nuc-u-lar'» - Homer Simpson."
+  bio              : "MSc. (c) in Physics. Currently working on Theoretical Nuclear Structure.
+  «'Nuc-u-lar'. It's pronounced 'nuc-u-lar'» - Homer Simpson."
   location         : "Concepción, Chile"
   employer         :
   pubmed           : 
@@ -102,7 +103,7 @@ author:
   instagram        : "pedroga_cc"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/pedro-contreras-corral-4a83aa209/"
   orcid            : "http://orcid.org/0000-0001-5512-3292"
   pinterest        :
   soundcloud       :
