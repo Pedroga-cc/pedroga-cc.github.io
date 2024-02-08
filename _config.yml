@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pedro Contreras Corral"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MSc. (c) in Physics. Currently working on Theoretical Nuclear Structure. «'Nuc-u-lar'. It's pronounced 'nuc-u-lar'» - Homer Simpson."
   location         : "Concepción, Chile"
   employer         :
   pubmed           : 
@@ -99,7 +99,7 @@ author:
   github           : "pedroga-cc"
   google_plus      :
   keybase          :
-  instagram        : "pedroga-cc"
+  instagram        : "pedroga_cc"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
