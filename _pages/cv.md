@@ -57,6 +57,6 @@ Teaching (as Teaching Assistant)
 Service and leadership
 ======
 * I have been involved in different Students Organizations during my time in University, both during my Undergraduate Studies (2020-2023) and during my Postgraduate studies (2023-2024)
-  * Secretary, Physics Undergraduate Students' Union (<em> Centro de Estudiantes de Ciencias Físicas, CECF </em>, in spanish). 2020-2021
-  * President, Physics Undergraduate Students' Union (<em> Centro de Estudiantes de Ciencias Físicas, CECF </em>, in spanish). 2021-2023
-  * Member, Physics Graduate Students' Union (<em> Centro de Estudiantes de Postgrado en Física, CEPFis </em>, in spanish). 2023-2024
+  * Secretary, Physics Undergraduate Students' Union (<em>Centro de Estudiantes de Ciencias Físicas, CECF</em>, in spanish). 2020-2021
+  * President, Physics Undergraduate Students' Union (<em>Centro de Estudiantes de Ciencias Físicas, CECF</em>, in spanish). 2021-2023
+  * Member, Physics Graduate Students' Union (<em>Centro de Estudiantes de Postgrado en Física, CEPFis</em>, in spanish). 2023-2024
